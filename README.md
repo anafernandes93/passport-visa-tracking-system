@@ -36,9 +36,9 @@ test – Unit tests for business logic and data access
 
 # Core Domain Entities
 
-Person – Represents a passport holder
-Visa – Stores visa details including expiry date
-Movement – Represents ENTRY and EXIT movements linked to a passport
+Person – Represents a passport holder.    
+Visa – Stores visa details including expiry date.   
+Movement – Represents ENTRY and EXIT movements linked to a passport.
 
 
 # Compliance Logic
