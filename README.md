@@ -26,12 +26,12 @@ Core Java console application for tracking passport visa holders, entry and exit
 # Application Structure
 The project follows a simple, layered structure:
 
-model – Entity classes such as Person, Visa, and Movement
-dao – Database access logic using JDBC
-service – Business logic including compliance calculation
-util – Utility classes for CSV generation and AWS integration
-exception – Custom exceptions for validation and business rules
-test – Unit tests for business logic and data access
+- model – Entity classes such as Person, Visa, and Movement.
+- dao – Database access logic using JDBC.
+- service – Business logic including compliance calculation.
+- util – Utility classes for CSV generation and AWS integration.
+- exception – Custom exceptions for validation and business rules.
+- test – Unit tests for business logic and data access.
 
 
 # Core Domain Entities
