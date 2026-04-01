@@ -60,8 +60,8 @@ Multiple test cases cover:
 - Edge cases
 
 
-Tests validate both business logic and data handling
-Test coverage is used to ensure key logic paths are exercised
+Tests validate both business logic and data handling.
+Test coverage is used to ensure key logic paths are exercised.
 
 
 # Assumptions
